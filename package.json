@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Mineck74",
-  "license": "ISC",
+  "author": "Mineck74   <mineck74@gmail.com>",
+  "license": "Apache-2.0",
   "dependencies": {
     "cheerio": "^0.22.0",
     "fs": "0.0.1-security",
